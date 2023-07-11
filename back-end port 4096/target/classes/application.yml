@@ -1,0 +1,12 @@
+server:
+  port: 4096
+
+spring:
+  datasource:
+    username: root
+    password: 1pq0@OW(
+    url: jdbc:mysql:///Diarial
+    driver-class-name: com.mysql.cj.jdbc.Driver
+  redis:
+    port: 6379
+    host: localhost
